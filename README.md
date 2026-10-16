@@ -46,5 +46,5 @@ Connect your GitHub repository to Vercel for automatic deployments.
 
 **Muhammad Asif Majeed**  
 AI Web Developer & Solutions Architect  
-Email: asif@example.com  
-Phone: +92 300 0000000
+Email: ch.masifmajeed@gmail.com  
+Phone: +92 325 1561050
